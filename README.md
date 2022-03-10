@@ -1,4 +1,4 @@
-# Recursive function
+# Recursive function with a simple code (TOH)
 
 ![Recursive](https://user-images.githubusercontent.com/93463121/157762454-94b92fa5-07ad-430e-b837-a7cebb4e9308.png)
 
@@ -15,8 +15,10 @@
 ![RE](https://user-images.githubusercontent.com/93463121/157768364-62155437-2849-4f8e-9977-d990268210c8.png)
 
 ***In programming terms, a recursive function can be defined as a routine that calls itself directly or indirectly.
-Using the recursive algorithm, certain problems can be solved quite easily. 
-Towers of `Hanoi (TOH)` is one such programming exercise. Try to write an iterative algorithm for TOH. Moreover, every recursive program can be written using iterative methods.
+Using the recursive algorithm, certain problems can be solved quite easily.***
+
+## Hanoi Towers (TOH)
+***Towers of `Hanoi (TOH)` is one such programming exercise. Try to write an iterative algorithm for TOH. Moreover, every recursive program can be written using iterative methods.
 Mathematically, recursion helps to solve a few puzzles easily.
 For example, a routine interview question,
 In a party of N people, each person will shake her/his hand with each other person only once. 
