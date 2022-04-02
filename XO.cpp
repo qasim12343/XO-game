@@ -159,7 +159,6 @@ int main()
     else if(barenda()=='O'){
         cout<<"O win the game";break;}
     else if(n==9){cout<<"mosave";break;}
-
     }
 }
     
